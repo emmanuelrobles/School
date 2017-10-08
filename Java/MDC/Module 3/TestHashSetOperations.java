@@ -7,7 +7,12 @@ Assignment # 2
 Plagiarism Statement
 I certify that this assignment is my own work and that I have not copied in part or whole or otherwise plagiarized the work of other students and/or persons.
 --------------------------------------------------------------------*/
-
+/*
+Task:
+Perform set operations on hash sets. Create a class named TestHashSetOperations to do the following. Create two linked hash sets 
+{"George", "Jim", "John", "Blake", "Kevin", "Michael"} and {"George", "Katie", "Kevin", "Michelle", "Ryan"} and find their union, 
+difference, and intersection. (You can clone the sets to preserve the original sets from being changed by these set methods.)
+*/
 import java.util.*;
 
 public class TestHashSetOperations {
