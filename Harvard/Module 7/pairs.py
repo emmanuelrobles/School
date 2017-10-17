@@ -1,3 +1,9 @@
+"""
+1) Using the English DictionaryPreview the documentView in a new window that Downey provides, find all words in the dictionary whose reverse is also in the dictionary.  There are about 500 such unordered pairs: build a list with each pair appearing once in alphabetic order.  Your list should start with the pair ('aa', 'aa') and end with the pair ('yay', 'yay') and should include ('abut', 'tuba') but not ('tuba', abut').
+
+Have your program print the number of such pairs, and print the first 10 pairs.  
+"""
+
 import sys
 def reverse(word):
     word_Reversed=""
